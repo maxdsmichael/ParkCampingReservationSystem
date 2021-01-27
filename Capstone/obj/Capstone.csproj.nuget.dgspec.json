@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maxds\\Documents\\GitHub\\ParkCampingReservationSystem\\Capstone\\Capstone.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maxds\\Documents\\GitHub\\ParkCampingReservationSystem\\Capstone\\Capstone.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maxds\\Documents\\GitHub\\ParkCampingReservationSystem\\Capstone\\Capstone.csproj",
+        "projectName": "Capstone",
+        "projectPath": "C:\\Users\\maxds\\Documents\\GitHub\\ParkCampingReservationSystem\\Capstone\\Capstone.csproj",
+        "packagesPath": "C:\\Users\\maxds\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maxds\\Documents\\GitHub\\ParkCampingReservationSystem\\Capstone\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maxds\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Figgle": {
+              "target": "Package",
+              "version": "[0.4.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "microsoft.extensions.configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "microsoft.extensions.configuration.fileextensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "microsoft.extensions.configuration.json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "system.data.sqlclient": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
